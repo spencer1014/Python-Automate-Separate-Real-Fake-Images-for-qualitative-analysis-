@@ -1,5 +1,5 @@
 Problem statement:
-On kaggle competition, cidaut-ai-fake-scene-classification-2024. The images are downloaded and its data is shown at the excel, during image idetification between fake and real image, some are mislabbelled. This is projected to affect the accuracy of the machine learning model produce.
+On kaggle competition, cidaut-ai-fake-scene-classification-2024. The images are downloaded and its data is shown at the excel, during image idetification between fake and real image, some data are mislabelled, this error is projected to affect the accuracy of the machine learning model produce.
 
 
 To solve this problem, a python program is produced to find the closest image so a pair of images can be use for qualitative analysis.

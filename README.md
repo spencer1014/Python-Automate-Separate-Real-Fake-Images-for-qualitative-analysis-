@@ -2,7 +2,7 @@ Problem statement:
 On kaggle competition, cidaut-ai-fake-scene-classification-2024. The images are downloaded and its data is shown at the excel, during image idetification between fake and real image, some data are mislabelled, this error is projected to affect the accuracy of the machine learning model produce.
 
 
-To solve this problem, a python program is produced to find the closest image so a pair of images can be use for qualitative analysis.
+To solve this problem, a python program is produced to find the closest image so a pair of images can be use for qualitative analysis. For demonstration purpose only 40 images are used. Since the original amount of images are 900 and it can take up to 6 hours for the process to complete.
 
 The process in the jupyter notebook are as:
 1. Names of the images are listed using OS Module library.
